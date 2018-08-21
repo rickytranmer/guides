@@ -16,7 +16,7 @@
     - download/install programs
     - test Edge & IE11
 - Windows 7
-    - test IE11
+    - test IE11 (and the other dinosaurs)
     - faster startup
 
 #
@@ -31,6 +31,6 @@
 
 ### Windows authorizes use of the VM for 90 days.  To avoid having to start from scratch every three months, open the command prompt as an administrator and follow these steps:
 
-- `slmgr -rearm`
+- enter: &nbsp; `slmgr -rearm`
 - reboot VM
-- `slmgr -ato`
+- enter: &nbsp; `slmgr -ato`
