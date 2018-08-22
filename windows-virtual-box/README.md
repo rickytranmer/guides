@@ -21,6 +21,20 @@
 
 #
 
+## Installation
+
+### If installation fails on High Sierra:
+
+1. reboot
+2. during reboot, hold ⌘-R
+3. click Utilities -> Terminal
+4. enter: &nbsp; `csrutil disable`
+5. close Terminal, reboot
+6. remove remnants of failed install and reattempt
+7. after install, repeat steps 1-3 and enter: &nbsp; `csrutil enable`
+
+#
+
 ## Setup
 
 ### Coming soon.
