@@ -7,7 +7,7 @@
 #### See documentation for install and default hotkeys.
 
 #### My hotkey changes (copy and paste):
-`{ "keys": ["super+t"], "command": "plain_tasks_new_task_doc"},`
+`{ "keys": ["super+t"], "command": "plain_tasks_new_task_doc" },`
 - Open a new todo doc
 
 `{ "keys": ["ctrl+d"], "command": "plain_tasks_complete","context": [{ "key": "selector", "operator": "equal", "operand": "text.todo" }] },`
