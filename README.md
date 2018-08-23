@@ -1,6 +1,8 @@
 # Install/Setup Guides
 
-- [Windows VM on Mac OSX using VirtualBox](https://github.com/rickytranmer/guides/tree/master/windows-virtual-box)
+- Custom Search Engines (coming soon)
+- Git Aliases (coming soon)
 - [Sublime Todo List (PlainTasks)](https://github.com/rickytranmer/guides/tree/master/sublime-tasks)
 - VS Code setup (coming soon)
-- [Other random, useful downloads](https://github.com/rickytranmer/guides/tree/master/useful-downloads)
+- [Useful OSX downloads](https://github.com/rickytranmer/guides/tree/master/useful-downloads)
+- [Windows VM on Mac OSX using VirtualBox](https://github.com/rickytranmer/guides/tree/master/windows-virtual-box)
