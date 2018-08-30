@@ -37,13 +37,13 @@
 
 ## Setup
 
-### Coming soon.
+#### Coming soon.
 
 #
 
 ## Renew 90 day activation
 
-#### Windows authorizes use of the VM for 90 days.  To avoid having to start from scratch every three months, open the command prompt as an administrator and follow these steps:
+#### Windows authorizes use of the VM for 90 days.  To extend your registration and avoid having to start from scratch every three months, open the Windows command prompt as an administrator and follow these steps:
 
 - enter: &nbsp; `slmgr -rearm`
 - reboot VM
