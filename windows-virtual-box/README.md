@@ -2,7 +2,7 @@
 
 ## Install Windows virtual machines on VirtualBox
 
-### Need to run a Windows-only program on your Mac?&nbsp; Need to test browser compatibillity for MS Edge or IE11?&nbsp; Look no further!
+#### Need to run a Windows-only program on your Mac?&nbsp; Need to test browser compatibillity for MS Edge or IE11?&nbsp; Look no further!
 
 #
 
@@ -23,7 +23,7 @@
 
 ## Installation
 
-### If installation fails on High Sierra:
+#### If installation fails on High Sierra:
 
 1. reboot
 2. during reboot, hold ⌘-R
@@ -43,7 +43,7 @@
 
 ## Renew 90 day activation
 
-### Windows authorizes use of the VM for 90 days.  To avoid having to start from scratch every three months, open the command prompt as an administrator and follow these steps:
+#### Windows authorizes use of the VM for 90 days.  To avoid having to start from scratch every three months, open the command prompt as an administrator and follow these steps:
 
 - enter: &nbsp; `slmgr -rearm`
 - reboot VM
