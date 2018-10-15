@@ -17,7 +17,7 @@ Concise git status, prefaced by date
 
 Git add & commit
 - `git config --global alias.ac !git add -A && git commit`
-- Use:&nbsp; `git ac -m '...'`
+- Use:&nbsp; `git ac` &nbsp;*or*&nbsp; `git ac -m '...'`
 
 Git add & commit w/ message
 - `git config --global alias.acm !git add -A && git commit -m`
@@ -38,6 +38,11 @@ Git branch
 Git checkout
 - `git config --global alias.co checkout`
 - Use:&nbsp; `git co BRANCH_NAME`
+
+Push /build to gh-pages
+- `git config --global alias.gh 'subtree push --prefix build origin gh-pages'`
+- Use:&nbsp; `git co BRANCH_NAME`
+- Replace *build* with project's build folder
 
 
 #### Coming soon.
