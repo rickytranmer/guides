@@ -16,11 +16,11 @@ Concise git status, prefaced by date
 - Use:&nbsp; `git ss`
 
 Git add & commit
-- `git config --global alias.ac !git add -A && git commit`
+- `git config --global alias.ac '!git add -A && git commit'`
 - Use:&nbsp; `git ac` &nbsp;*or*&nbsp; `git ac -m '...'`
 
 Git add & commit w/ message
-- `git config --global alias.acm !git add -A && git commit -m`
+- `git config --global alias.acm '!git add -A && git commit -m'`
 - Use:&nbsp; `git acm '...'`
 
 Git pull & run npm script
@@ -28,20 +28,19 @@ Git pull & run npm script
 - Use:&nbsp; `git pr SCRIPT_NAME`
 
 Git status
-- `git config --global alias.st !git add -A && git commit`
+- `git config --global alias.st '!git status'`
 - Use:&nbsp; `git st`
 
 Git branch
-- `git config --global alias.br branch`
+- `git config --global alias.br '!git branch'`
 - Use:&nbsp; `git br`
 
 Git checkout
-- `git config --global alias.co checkout`
+- `git config --global alias.co '!git checkout'`
 - Use:&nbsp; `git co BRANCH_NAME`
 
 Push /build to gh-pages
 - `git config --global alias.gh 'subtree push --prefix build origin gh-pages'`
-- Use:&nbsp; `git co BRANCH_NAME`
 - Replace *build* with project's build folder
 
 
