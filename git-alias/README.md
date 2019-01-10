@@ -9,7 +9,7 @@
 #### Useful aliases:
 
 Show current aliases
-- `git config --get-regexp alias`
+- `git config --global alias.alias '!git config --list | grep 'alias\.' | sed 's/alias\.\([^=]*\)=\(.*\)/\1\	 => \2/' | sort'`
 
 Concise git status, prefaced by date
 - `git config --global alias.ss '!echo && date && git status -s && echo'`
